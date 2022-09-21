@@ -47,9 +47,13 @@ h2,h3{
 .sidecontent{
     display: flex;
     flex-direction: column;
+    height: 100%;
 }
 .sidelogo img{
     width: 70%;
+}
+.sideplaylist{
+   flex-grow: 2;
 }
 .sidefooter h3{
     margin: 0;
@@ -78,6 +82,9 @@ h2,h3{
 }
 #imgfoot2{
     width: 8%;
+    border-radius: 50%;
+    background-color: grey;
+    line-height: 10px;
 }
 /* Contentwrappertop */
 .contentwrappertop{
