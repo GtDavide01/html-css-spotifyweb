@@ -1,0 +1,16 @@
+/* RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* HTML */
+html{
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+/* BODY */
+body{
+    height: 100vh;
+    background-color: aqua;
+}
